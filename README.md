@@ -1,2 +1,0 @@
-# AdsVpn
-AdsVpn
